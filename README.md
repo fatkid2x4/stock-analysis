@@ -10,11 +10,11 @@ First of all, I must say my original work on this module showed results over fou
 
 When I refactored my run times, even with my "extra" code was still 0.109375 for 2017 and 0.109375 for 2018 (see below).  The code I added to compute average daily volume and average return added about .6 seconds to each.  Obviously I could use some help there.  However, I did a record macro, copy and paste into the current macro, with little clean up.  So I guess that should be expected?  
 
-/Users/fatkid/Desktop/VBA_Challenge_2017.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_Challenge_2017.png)
-/Users/fatkid/Desktop/VBA_challenge_2017_data_results.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_challenge_2017_data_results.png)
+VBA_Challenge_2017.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_Challenge_2017.png)
+VBA_challenge_2017_data_results.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_challenge_2017_data_results.png)
 
-/Users/fatkid/Desktop/VBA_Challenge_2018_results.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_Challenge_2018.png)
-/Users/fatkid/Desktop/VBA_Challenge_2018_data_results.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_Challenge_2018_data_results.png)
+VBA_Challenge_2018_results.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_Challenge_2018.png)
+VBA_Challenge_2018_data_results.png(https://github.com/fatkid2x4/stock-analysis/blob/main/VBA_Challenge_2018_data_results.png)
 
 ## Summary
 
